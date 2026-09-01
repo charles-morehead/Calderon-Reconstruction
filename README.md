@@ -19,9 +19,9 @@ The notebook generates synthetic boundary measurements for a known conductivity 
 
 The reconstruction produces an ill-posed linear system
 
-\[
+$
 Ac \approx r,
-\]
+$
 
 which is solved using either classical or alternate Tikhonov regularization.
 
