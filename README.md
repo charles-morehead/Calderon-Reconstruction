@@ -28,9 +28,9 @@ which is solved using either classical or alternate Tikhonov regularization.
 A parameter sweep is performed over:
 
 - Number of reconstruction iterations
-- Damping parameter \(\omega\)
-- Classical Tikhonov parameter \(\alpha\)
-- Alternate Tikhonov parameters \(\mu\) and \(\delta\)
+- Damping parameter $\omega$
+- Classical Tikhonov parameter $\alpha$
+- Alternate Tikhonov parameters $\mu$ and $\delta$
 
 In total, the notebook performs 666 reconstruction tests: 126 using classical Tikhonov regularization and 540 using alternate Tikhonov regularization. [1]
 
