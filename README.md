@@ -1,6 +1,7 @@
 # Calderón Inverse Conductivity Reconstruction
 
-This repository contains the notebook used for the numerical experiments in “Generalized Tikhonov-Type Regularization and the Calderón Inverse Conductivity Problem” [1].
+This repository contains the notebook used for the numerical experiments in “Alternative Tikhonov-Type Regularization for
+the Calderón Inverse Conductivity Problem ” [1].
 
 The notebook implements a linearized reconstruction method for the Calderón inverse conductivity problem and compares two regularization techniques:
 
@@ -72,4 +73,4 @@ The notebook produces:
 
 ## Reference
 
-[1] Charlie Morehead, *Generalized Tikhonov-Type Regularization and the Calderón Inverse Conductivity Problem*, 2026.
+[1] Charles Morehead, *Alternative Tikhonov-Type Regularization for the Calderón Inverse Conductivity Problem*, 2026.
