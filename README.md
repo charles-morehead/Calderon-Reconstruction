@@ -73,4 +73,4 @@ The notebook produces:
 
 ## Reference
 
-[1] Charles Morehead, *Alternative Tikhonov-Type Regularization for the Calderón Inverse Conductivity Problem*, 2026.
+[1] Pavel B. Dubovski and Charles Morehead, *Alternative Tikhonov-Type Regularization for the Calderón Inverse Conductivity Problem*, unpublished manuscript, 2026.
